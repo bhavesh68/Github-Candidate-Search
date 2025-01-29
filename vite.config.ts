@@ -8,6 +8,6 @@ export default defineConfig({
   server: {
     host: "0.0.0.0",
     port: 10000,
-    allowedHosts: ["https://github-candidate-search-wxzs.onrender.com/"]
+    allowedHosts: ["https://github-candidate-search-wxzs.onrender.com"]
   }
 });
